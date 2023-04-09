@@ -1,2 +1,2 @@
 # Coursera-HTML-CSS-and-JavaScript-for-Web-Developers
- To see the output [CLICK HERE](https://MariaJoseFuentesC.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/blob/main/index.html)
+ To see the output [CLICK HERE](file:///C:/Users/totek/AppData/Local/Temp/Temp3_Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-main.zip/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-main/index.html)
