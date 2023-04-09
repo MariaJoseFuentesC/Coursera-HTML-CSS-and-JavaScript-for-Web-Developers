@@ -1,3 +1,3 @@
 # Coursera-HTML-CSS-and-JavaScript-for-Web-Developers
 
-CLICK TO SEE THE FINAL RESULT 
+CLICK TO SEE THE FINAL RESULT file:///C:/Users/totek/Desktop/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-main/index.html
