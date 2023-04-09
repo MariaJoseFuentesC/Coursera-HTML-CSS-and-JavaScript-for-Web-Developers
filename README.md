@@ -1,2 +1,2 @@
 # Coursera-HTML-CSS-and-JavaScript-for-Web-Developers
- To see the output [CLICK HERE](file:///C:/Users/totek/AppData/Local/Temp/Temp3_Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-main.zip/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-main/index.html)
+ To see the output [CLICK HERE](file:///C:/Users/totek/Downloads/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-main/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers-main/index.html)
